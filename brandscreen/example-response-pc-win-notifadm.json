@@ -1,0 +1,25 @@
+{
+    "id": "BID-4-ZIMP-4b309eae-504a-4252-a8a8-4c8ceee9791a",
+    "seatbid": [
+        {
+            "bid": [
+                {
+                    "id": "32a69c6ba388f110487f9d1e63f77b22d86e916b",
+                    "impid": "32a69c6ba388f110487f9d1e63f77b22d86e916b",
+                    "price": 0.065445,
+                    "adid": "529833ce55314b19e8796116",
+                    "nurl": "http://ads.com/win/529833ce55314b19e8796116?won=${AUCTION_PRICE}",
+                    "adm": "<iframe src=\"http://ads.com/render/529833ce55314b19e8796116\" width=\"300\" height=\"250\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" topmargin=\"0\" leftmargin=\"0\"></iframe>",
+                    "adomain": [
+                        "ads.com"
+                    ],
+                    "cid": "529833ce55314b19e8796116",
+                    "crid": "529833ce55314b19e8796116_1385706446",
+                    "attr": []
+                }
+            ],
+            "seat": "772"
+        }
+    ],
+    "cur": "USD"
+}
