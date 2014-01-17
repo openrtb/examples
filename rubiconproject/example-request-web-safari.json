@@ -1,0 +1,43 @@
+{
+    "id": "5d394bed0104ca857c702982fe8d95e408820ea2",
+    "at": 2,
+    "tmax": 152,
+    "imp": [{
+        "id": "1",
+        "tagid": "61653",
+        "banner": {
+            "w": 728,
+            "h": 90,
+            "battr": [3, 9, 1, 14018, 14014, 14, 13, 10, 14015, 8, 14019, 2, 5],
+            "api": []
+        },
+        "iframebuster": []
+    }],
+    "site": {
+        "id": "17945",
+        "domain": "http://addictinggames.com",
+        "name": "Addicting Games",
+        "cat": ["IAB9"],
+        "page": "http://www.addictinggames.com/",
+        "publisher": {
+            "id": "9705"
+        }
+    },
+    "device": {
+        "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10",
+        "ip": "192.168.1.1",
+        "language": "en",
+        "devicetype": 2,
+        "js": 1,
+        "geo": {
+            "country": "USA",
+            "region": "NY"
+        }
+    },
+    "user": {
+        "id": "3f234f9a06ab82120afdbf1e12df919b2e388cab",
+        "ext": {
+            "sessiondepth": 1
+        }
+    }
+}

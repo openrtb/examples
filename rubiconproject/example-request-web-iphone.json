@@ -1,0 +1,49 @@
+{
+    "id": "6f622d2df52952faba8784932d180d93ec25604d",
+    "at": 2,
+    "tmax": 151,
+    "imp": [{
+        "id": "1",
+        "tagid": "85869",
+        "iframebuster": ["ALL"],
+        "banner": {
+            "w": 728,
+            "h": 90,
+            "pos": 1,
+            "battr": [9, 1, 14018, 14014, 3, 14005, 10, 8, 14, 14019, 14015, 5],
+            "api": [],
+            "topframe": 1
+        }
+    }],
+    "site": {
+        "id": "15427",
+        "domain": "http://www.oprah.com",
+        "name": "Oprah Winfrey Network (OWN)",
+        "cat": ["IAB7", "IAB9", "IAB1"],
+        "page": "http://www.oprah.com/own-where-are-they-now/Barry-Williams-on-Brady-Bunch-Backstage-Romances-Video",
+        "publisher": {
+            "id": "9115"
+        }
+    },
+    "device": {
+        "make": "Apple",
+        "model": "iPhone",
+        "os": "iOS",
+        "osv": "7.0",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.2.0.25255 Mobile/11A465 Safari/8536.25",
+        "ip": "192.168.1.1",
+        "language": "en",
+        "devicetype": 2,
+        "js": 1,
+        "geo": {
+            "country": "USA",
+            "region": "NY"
+        }
+    },
+    "user": {
+        "id": "6ea4bd0143830a4f2b3c415627fa349043a6321d",
+        "ext": {
+            "sessiondepth": 1
+        }
+    }
+}

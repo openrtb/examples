@@ -1,0 +1,60 @@
+{
+    "id": "7979d0c78074638bbdf739ffdf285c7e1c74a691",
+    "at": 2,
+    "tmax": 143,
+    "imp": [{
+        "id": "1",
+        "tagid": "76334",
+        "iframebuster": ["ALL"],
+        "banner": {
+            "w": 300,
+            "h": 250,
+            "pos": 1,
+            "battr": [9, 1, 14014, 3, 13, 10, 8, 14],
+            "api": [3, 1000],
+            "topframe": 1
+        }
+    }],
+    "app": {
+        "id": "20625",
+        "cat": ["IAB1"],
+        "name": "com.cheezburger.icanhas",
+        "domain": "http://cheezburger.com",
+        "privacypolicy": 1,
+        "publisher": {
+            "id": "8428"
+        },
+        "ext": {
+            "storerating": 1,
+            "appstoreid": "457637357"
+        }
+    },
+    "device": {
+        "make": "Samsung",
+        "model": "SCH-I535",
+        "os": "Android",
+        "osv": "4.3",
+        "ua": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SCH-I535 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "ip": "192.168.1.1",
+        "language": "en",
+        "devicetype": 1,
+        "js": 1,
+        "connectiontype": 3,
+        "dpidsha1": "F099E6D1C485756C45D1EEACB33C73B55C4BC499",
+        "carrier": "Verizon Wireless",
+        "geo": {
+            "country": "USA",
+            "region": "PA",
+            "type": 3,
+            "ext": {
+                "latlonconsent": 1
+            }
+        }
+    },
+    "user": {
+        "id": "bd5adc55dcbab4bf090604df4f543d90b09f0c88",
+        "ext": {
+            "sessiondepth": 207
+        }
+    }
+}
