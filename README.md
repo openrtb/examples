@@ -1,4 +1,4 @@
-examples
+Overview
 ========
 
-Examples of OpenRTB requests and responses to support the OpenRTB Specification.
+This the repository of OpenRTB examples.
