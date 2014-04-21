@@ -175,7 +175,7 @@ object. A few notes about specific fields in the example:
     "id": "1345135123",   	
     "name": "Site ABCD", 	
     "domain": "siteabcd.com",
-    "sitecat": [
+    "cat": [
       "IAB2-1",
       "IAB2-2"
     ],

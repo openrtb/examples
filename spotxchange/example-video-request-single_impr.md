@@ -90,7 +90,7 @@ content itself is described in the "content" object.
     "id": "1345135123",   	
     "name": "Site ABCD", 	
     "domain": "siteabcd.com",
-    "sitecat": [
+    "cat": [
       "IAB2-1",
       "IAB2-2"
     ],
