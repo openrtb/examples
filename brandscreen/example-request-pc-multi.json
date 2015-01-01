@@ -23,7 +23,7 @@
     "site": {
         "id": "15047",
         "domain": "dailymotion.com",
-        "cat": "IAB1",
+        "cat": ["IAB1"],
         "page": "http://www.dailymotion.com/video/xxeauj_www-dramacafe-tv-hd-yyyy-yy-yyyyyyy-2012-yyyy_shortfilms",
         "publisher": {
             "id": "8796",
