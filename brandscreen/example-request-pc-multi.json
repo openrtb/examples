@@ -28,7 +28,7 @@
         "publisher": {
             "id": "8796",
             "name": "dailymotion",
-            "cat": "IAB3-1",
+            "cat": ["IAB3-1"],
             "domain": "dailymotion.com"
         }
     },
