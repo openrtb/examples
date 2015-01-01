@@ -14,7 +14,7 @@
     "site": {
         "id": "102855",
         "domain": "http://www.usabarfinder.com",
-        "cat": "IAB3-1",
+        "cat": ["IAB3-1"],
         "page": "http://eas.usabarfinder.com/eas?cu=13824;cre=mu;target=_blank",
         "publisher": {
             "id": "8953",
