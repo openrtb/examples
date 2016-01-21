@@ -4,7 +4,7 @@ Following is an example of a bid response that returns multiple
 Seat Bid objects in response to a Bid Request containing multiple
 impressions. A few notes about the example:
 
-### Seat 164
+### Seat 165
 This bidder is presenting a group to be taken as a whole or not at
 all. Impression IDs 1 and 2 are associated with a deal, while 3
 is not. Also, all Bid objects will return VAST ad markup via their
