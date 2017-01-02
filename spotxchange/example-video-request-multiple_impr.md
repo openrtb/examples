@@ -143,7 +143,7 @@ object. A few notes about specific fields in the example:
     },
     {
       "id": "3",
-      "bidfloor": 2.00
+      "bidfloor": 2.00,
       "video": {
         "mimes": [
           "video/x-flv",
