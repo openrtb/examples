@@ -1,0 +1,80 @@
+// <copyright file="bid_request_channel" company="WideOrbit">
+// </copyright>
+// <author>Ian Ferreira</author>
+// <email>ianfe@wideorbit.com</email>
+// <date>2014-10-24</date>
+// <summary>Contains a sample bid request for bidding on local broadcast TV via the WideOrbit Programmatic for TV marketplace</summary>
+
+
+
+{
+    //Bid Request ID
+    "id": "0123456789ABCDEF0123456789ABCDEF",
+    "at": 1,
+    "tmax": 120,
+    "imp": [
+      {
+          "id": "1",
+          "bidfloor": 200.00,
+          "video": {
+              //Accepted mime types
+              "mimes": [
+                "video/x-flv",
+                "video/mp4"
+              ],
+              "api":             [],
+              "battr":           [13,14],
+              "boxingallowed":   false,
+              "delivery":        [2],
+              "h":               480,
+              "linearity":       1,
+              "maxbitrate":      1500,
+              "maxduration":     30,
+              "minbitrate":      300,
+              "minduration":     15,
+              "playbackmethod":  [1],
+              "pos":             1,
+              "protocol":        [2,3],
+              "sequence":        1,
+              "startdelay":      0,
+              "w":               640
+          }
+      }
+    ],
+
+  "channel": {
+      "callletters": "KOMO",
+      "name": "KOMO4",
+      "content": {
+          "airdaypart":  "46XM",
+          "airday":   "M",
+          "airweek" : 48,
+          "keyword":  ["keyword a", "keyword b", "keyword c"],
+          "series":   "All About Cars",
+          "title":    "Car Show"
+      }
+  },
+  "device": {
+      "ua": "BroadCastTV/Local (WideOrbit Programmatic TV v1)",
+      "js": 0
+  },
+  "user":
+        {
+            "data": [
+              {
+                  "name": "Rentrak",
+                  "segment": [
+                    {
+                        "index": 68,
+                        "name": "auto intenders"
+
+                    },
+                    {
+                        "index": 121,
+                        "name": "auto enthusiasts"
+                    }
+                  ]
+              }
+            ]
+        }
+}
